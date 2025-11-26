@@ -1,3 +1,5 @@
+# Hi 👋, I'm Harshal Patil
+Aspiring Data Analyst & Business Analyst with a strong interest in analytics, dashboards, SQL, and real-world business insights.
 # 💫 About Me:
 🔭 I’m currently working on : <br>👯 I’m looking to collaborate on : Data Analytics, Business Case Studies, and Power BI dashboards<br>🤝 I’m looking for help with : Advanced business analytics techniques & automated reporting workflows<br>🌱 I’m currently learning : Power BI (Advanced), SQL for Analytics, Business Statistics, Excel Automation<br>💬 Ask me about : Data Analysis, Business Analytics, SQL, Power BI, Python, Dashboarding<br>⚡ Fun fact : I love finding insights in data more than scrolling social media 😄
 
@@ -11,5 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=harshal4257&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=harshal4257&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshal4257&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
