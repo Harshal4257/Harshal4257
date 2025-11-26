@@ -1,7 +1,7 @@
 # Hi 👋, I'm Harshal Patil
 Aspiring Data Analyst & Business Analyst with a strong interest in analytics, dashboards, SQL, and real-world business insights.
 # 💫 About Me:
-🔭 I’m currently working on : <br>👯 I’m looking to collaborate on : Data Analytics, Business Case Studies, and Power BI dashboards<br>🤝 I’m looking for help with : Advanced business analytics techniques & automated reporting workflows<br>🌱 I’m currently learning : Power BI (Advanced), SQL for Analytics, Business Statistics, Excel Automation<br>💬 Ask me about : Data Analysis, Business Analytics, SQL, Power BI, Python, Dashboarding<br>⚡ Fun fact : I love finding insights in data more than scrolling social media 😄
+👯 I’m looking to collaborate on : Data Analytics, Business Case Studies, and Power BI dashboards<br>🤝 I’m looking for help with : Advanced business analytics techniques & automated reporting workflows<br>🌱 I’m currently learning : Power BI (Advanced), SQL for Analytics, Business Statistics, Excel Automation<br>💬 Ask me about : Data Analysis, Business Analytics, SQL, Power BI, Python, Dashboarding<br>⚡ Fun fact : I love finding insights in data more than scrolling social media 😄
 
 
 ## 🌐 Socials:
